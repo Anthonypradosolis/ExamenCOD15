@@ -16,8 +16,8 @@ public class Partida {
      * @param rondasPartida rondas totales de la partida
      * @return rondas totales
      */
-    public void rondasdelasPartidas(int rondasPartida){
-
+    public int rondasPartidas(int rondasPartida){
+        return rondasPartida;
     }
 
     /**
@@ -25,7 +25,7 @@ public class Partida {
      * @param rondaActual ronda actual del jugador
      * @return en que ronda estamos
      */
-    public void rondasActualPArtida( int rondaActual){
-
+    public int rondasActual( int rondaActual){
+        return rondaActual;
     }
 }
