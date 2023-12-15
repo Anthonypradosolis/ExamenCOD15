@@ -16,7 +16,8 @@ public class Record {
      * @param puntuacionRecord puntuacion record de este juego
      * @return puntuacion record del jugador nuevo
      */
-    public void puntuacionRecord( int puntuacionRecord){
+    public int puntuacionRecord( int puntuacionRecord){
+        return puntuacionRecord;
     }
 
     /**
@@ -24,6 +25,7 @@ public class Record {
      * @param aliasRecord alias del jugador con un Record
      * @return alias del jugador con el record
      */
-    public void aliasRecord(String aliasRecord){
+    public String aliasRecord(String aliasRecord){
+        return aliasRecord;
     }
 }
