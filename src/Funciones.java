@@ -1,3 +1,6 @@
+/**
+ * Funciones utilizadas en la clase Main
+ */
 public class Funciones {
     /**
      * Genera un numero aleatorio para el jugador

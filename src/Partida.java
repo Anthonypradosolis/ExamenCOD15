@@ -1,3 +1,6 @@
+/**
+ * Funcion utilizada en la clase Main
+ */
 public class Partida {
     /**
      * Numero de rondas de la Partida

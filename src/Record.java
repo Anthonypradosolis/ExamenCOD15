@@ -1,3 +1,6 @@
+/**
+ * Funciones utilizadas en la clase Main
+ */
 public class Record {
     /**
      * Puntuacion Record del jugador
